@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.custom-margin-container {
+    margin: 20px;
+}
+
+.space-margin {
+    margin-left: 20px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: black;
+}
+
+.position-center {
+    text-align: center;
+}
+
+.small-margin {
+    margin: 5px;
+}
+
+.small-padding {
+    padding: 5px;
+}
+
+.medium-margin {
+    margin: 25px;
+}
+
+.medium-padding {
+    padding: 15px !important;
+}
+
+.dashed {
+    border: 2px dashed black !important;
+}
+
+.solid-proof {
+    border: 2px solid black !important;
+}
